@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/code./static/css/main.7e6eef7c.css",
+    "main.js": "/code./static/js/main.abcac392.js",
+    "static/media/header.png": "/code./static/media/header.4225aaaa4f5a7c12e1e7.png",
+    "static/media/contact-header-img.png": "/code./static/media/contact-header-img.edd636c651d9ad6b694c.png",
+    "static/media/services-header.png": "/code./static/media/services-header.8971710d8dbafc74c95d.png",
+    "static/media/services-sales-header.png": "/code./static/media/services-sales-header.77aff1221e5fa01576a7.png",
+    "static/media/blog-card-1.png": "/code./static/media/blog-card-1.4bc25f9663734ed3e1cc.png",
+    "static/media/blog-card-2.png": "/code./static/media/blog-card-2.ed6623ec3d19e27950df.png",
+    "static/media/blog-card-3.png": "/code./static/media/blog-card-3.46b13b95b93e02e20ec0.png",
+    "index.html": "/code./index.html",
+    "main.7e6eef7c.css.map": "/code./static/css/main.7e6eef7c.css.map",
+    "main.abcac392.js.map": "/code./static/js/main.abcac392.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e6eef7c.css",
+    "static/js/main.abcac392.js"
+  ]
+}
