@@ -1,0 +1,33 @@
+@media (max-width:900px) {
+    .hero-content {
+        flex-direction: column ;
+        padding: 0 5px;
+        text-align: center;
+    }
+    .hero .image {
+        width: 400px !important;
+        
+    }
+    .hero .image img {
+        height: 100%;
+        padding-top: 30px;
+    }
+}
+@media (max-width:767px) {
+    .hero-content {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .hero .image {
+        width: 300px !important;
+        
+    }
+    .hero .image img {
+        height: 100%;
+        padding-top: 30px;
+    }
+    .hero .info-text {
+        width:auto;
+    }
+}
+

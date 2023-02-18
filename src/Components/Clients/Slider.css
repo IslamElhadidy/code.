@@ -1,0 +1,12 @@
+
+.swiper-pagination span:nth-child(3) {
+    display: none;
+}
+.swiper-pagination span:nth-child(4) {
+    display: none;
+}
+@media (max-width:767px) {
+    .clients{
+        display: none;
+    }
+}

@@ -1,0 +1,12 @@
+@media (max-width:991px) {
+    .all-boxes {
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center;
+        align-items: center;
+    }
+    .all-boxes .box {
+        padding: 30px 0;
+    }
+}
+
